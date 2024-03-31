@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RATVX6DXmc7ib1PJ1ngjRAAlG/dlYJ/GMjk5Yv4TPSg=",
+  "Source": "API_CRUD_STUDENT",
+  "BasePath": "_content/API_CRUD_STUDENT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
